@@ -1,0 +1,16 @@
+{
+    "name": "xiewenpin/composer-demo",
+    "description": "a test composer",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xiewenpin",
+            "email": "xwp6214472@sina.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
